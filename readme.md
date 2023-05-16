@@ -19,5 +19,5 @@ Now, in the command prompt type `python program.py`.
 
 1. `requests` error, `discord.py` or similar: Double check the token to make sure its correct. 
 2. `os` error, `discord.py`, `requests` or similar: If a `.env` file wasn't created, create it manually in the same directory the rest of files are placed. then put this in the folder: `ACCOUNT_TOKEN=YOUR_TOKEN_HERE` and replace the `YOUR_TOKEN_HERE` with your actual discord token.
-3. `discord.py` error, `requests` error: **__By saying token I mean the account token. I didn't test it on a bot token but im 90% sure it won't work.__**
-4. 
+3. `discord.py` error, `requests` error: **By saying token I mean the account token. I didn't test it on a bot token but im 90% sure it won't work.**
+4. *Any other error not listed below*: Create a issue (I dont guarantee to fix it) or just try fixing it yourself. If you can't just ask ChatGPT about your error i guess.
