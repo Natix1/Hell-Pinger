@@ -3,7 +3,7 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Tested on Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
-Haven't been tested on linux - probably won't work | Requires python | Discord 'utility'
+###Haven't been tested on linux - probably won't work | Requires python | Discord 'utility'
 ## How to use
 
 If you haven't, install [Python](https://www.python.org/downloads/). Make sure to check the **add to path** box.
